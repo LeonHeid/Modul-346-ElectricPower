@@ -1,4 +1,4 @@
 ### The electric power
 Ein Projekt mit Hilfe von github publizieren.
 
-von Leon Heid
+von Leon  Heid
